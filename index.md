@@ -3,9 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Projects
 ---
 
 ## [ansigo](https://ansigo.projects.makyo.io)
+
+## [Commission Organizer](http://commission-organizer.projects.makyo.io)
 
 ## [gotui](https://github.com/makyo/gotui)
 
@@ -16,3 +19,4 @@ layout: home
 ## [Stimmtausch](https://stimmtausch.com)
 
 ## [tv2](https://tv2.projects.makyo.io)
+
